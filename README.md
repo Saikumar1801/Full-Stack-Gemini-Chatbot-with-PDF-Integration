@@ -2,6 +2,8 @@
 
 This project is a full-stack web application featuring a chatbot powered by Google's Gemini API. Users can register, log in, upload PDF documents for contextualized conversations, and view their chat history. The application is built with Next.js, Supabase for authentication and database, and Tailwind CSS for styling.
 
+![screencapture-localhost-3000-2025-05-20-02_58_50](https://github.com/user-attachments/assets/2f60b3c7-0173-4e57-9189-3480dcfe7609)
+
 ## Features Implemented
 
 *   **User Authentication:** Secure user registration, login, and logout functionality using Supabase Auth.
