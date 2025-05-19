@@ -63,7 +63,7 @@ my-gemini-chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Saikumar1801/Full-Stack-Gemini-Chatbot-with-PDF-Integration.git)
 cd my-gemini-chatbot
 ```
 
